@@ -49,7 +49,7 @@ namespace PlaceApi.db
                     Location = "Cebu, Philippines",
                     About = "Whale shark watching is the most popular tourist attraction in Cebu.",
                     Reviews = 3,
-                    ImageData = GetImage("oslob_whalesharks.png", "image/png"),
+                    ImageData = GetImage("oslob_whalesharks.jpg", "image/jpg"),
                     LastUpdated = DateTime.Now
                 }
             );
